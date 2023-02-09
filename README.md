@@ -1,14 +1,14 @@
-# ionInjector
+# Deck injector
 Simple DLL Injector for both x64 and x86
 
 ## How to use it?
- * Compile the source code yourself or download it from the <a href="https://github.com/robi0t/ionInjector/releases/tag/release">**Release**</a> tab
+ * Compile the source code yourself
  * Choose a process from the process list
  * Select a DLL
  * Press **Inject DLL**
  
  ### How to compile?
-  * Open the .sln file in **Visual Studio 2019**
+  * Open the .sln file in **Visual Studio 20''**
   * If you want it to work with 32 bit processes:
     * Change Debug To **Release**
     * Press **Start**
