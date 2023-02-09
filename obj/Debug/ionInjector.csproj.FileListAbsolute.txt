@@ -1,0 +1,10 @@
+C:\Users\Ace\Desktop\ionInjector-main\bin\Debug\ionInjector.exe
+C:\Users\Ace\Desktop\ionInjector-main\bin\Debug\ionInjector.pdb
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.main.resources
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.Properties.Resources.resources
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.csproj.GenerateResource.cache
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.exe
+C:\Users\Ace\Desktop\ionInjector-main\obj\Debug\ionInjector.pdb

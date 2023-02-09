@@ -1,0 +1,10 @@
+D:\Code\ionInjector-main\bin\Release\Deck Inject.exe
+D:\Code\ionInjector-main\bin\Release\Deck Inject.pdb
+D:\Code\ionInjector-main\obj\Release\ionInjector.csproj.AssemblyReference.cache
+D:\Code\ionInjector-main\obj\Release\ionInjector.csproj.SuggestedBindingRedirects.cache
+D:\Code\ionInjector-main\obj\Release\ionInjector.main.resources
+D:\Code\ionInjector-main\obj\Release\Deck.Properties.Resources.resources
+D:\Code\ionInjector-main\obj\Release\ionInjector.csproj.GenerateResource.cache
+D:\Code\ionInjector-main\obj\Release\ionInjector.csproj.CoreCompileInputs.cache
+D:\Code\ionInjector-main\obj\Release\Deck Inject.exe
+D:\Code\ionInjector-main\obj\Release\Deck Inject.pdb
